@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+
+    <style>
+        th, td {
+        padding: 5px;
+        font-size: 20px;
+        }
+        th {
+        text-align: center;
+        }
+        /* thead tr th {
+        background-color: #eee;
+        }
+        body {
+        margin: 20px 20px 20px 20px;
+        color: black;
+        } */
+    </style>
+</head>
+<body>
+<table border="1" width="100%">
+    <thead>
+        <tr>
+                            <th>Jenis Asuransi</th>
+                </thead>
+    <tbody>
+    </tbody>
+</table>
+    
+</body>
+</html>
+</body>
+</html>
